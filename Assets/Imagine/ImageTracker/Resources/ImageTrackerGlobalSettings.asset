@@ -31,6 +31,8 @@ MonoBehaviour:
     texture: {fileID: 2800000, guid: b2bdf50e4cc3346a599712c9b60b457b, type: 3}
   - id: BMW
     texture: {fileID: 2800000, guid: 7b0a09a97ed7a47cc83a775efdbe2a2c, type: 3}
+  - id: qrcode (3)
+    texture: {fileID: 2800000, guid: de697f6c1263d114b8b137ce79106721, type: 3}
   defaultTrackerSettings:
     maxSimultaneousTargets: 1
     targetFrameRate: 30
